@@ -5,8 +5,8 @@ Student name: S.H.Maddumage
 Student ID: 2021/ICT/15
 Submission date: 15 November 2026
 
-Live URL: [PASTE VERIFIED HTTPS URL]
-GitHub repository: [PASTE YOUR REPOSITORY URL]
+Live URL:https://ica02-eventsphere.onrender.com
+GitHub repository: 
 
 ## 1. Introduction and objectives
 EventSphere is a mobile-oriented university venue booking and ticketing prototype. It enables administrators to manage venues and events, attendees to obtain tickets and request private hire, and gate staff to validate tickets. Five cooperating agents make scheduling, ticket allocation, check-in, waitlist and notification decisions. Payments are simulated; no card data is collected.
